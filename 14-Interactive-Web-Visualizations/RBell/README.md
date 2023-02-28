@@ -6,8 +6,7 @@
 ## Purpose
 This project creates a web-based interactive dashboard that allows the end-user to visualize the counts and types of belly button bacteria found on volunteer subjects. To preserve anonymity, test subjects are cloned to a unique identification number. End-users use this number to select a subject from a dropdown list. Upon selection, the dashboard simultanesly displays the updated results on a group of graphs and charts.
 
-## Website Link: 
-
+## Website Link: https://g6-2flyy.github.io/Belly_Button_Biodiversity_Challenge/
 ![Reference image](./Images/Dashboard.png)
 
 ## How it works:
